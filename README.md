@@ -1,7 +1,29 @@
 
-# Atividade_APIs
 
-Nesta seção estão alguns dos projetos de APIs, desenvolvidas por usuários do GitHub.
+# Atividade 01 — Projetos GitHub com Consumo de APIs
+
+## 📌 Descrição
+
+Pesquisa de **10 projetos disponíveis no GitHub** que utilizam diferentes APIs de integração:
+
+- 📚 **Java / Spring Boot API**
+- 🔎 **OpenAI API, OneAPI e NewAPI**
+- 🖥️ **Laravel REST API**
+- 🛍️ **Flask API**
+- 💻 **API de integração do projeto Codepath**
+- 👋 **Ruby on Rails API**
+- 🤖 **OpenAI API**
+- 🛒 **LoopBack 4 REST API**
+- 📰 **NewsAPI.org**
+- 🎵 **Spotify API**
+
+Cada projeto pesquisado utiliza **pelo menos um framework front-end**, demonstrando diferentes formas de integração entre aplicações web e APIs.
+
+## 🎯 Objetivo
+
+Identificar e analisar projetos disponíveis no GitHub que fazem uso de APIs para integração de dados e serviços externos, observando também as tecnologias e frameworks utilizados no desenvolvimento do front-end.
+
+
 
 
 | PROJETO                   | LINK DO REPOSITÓRIO                                                               | LINK DO DEPLOY                                      | FRAMEWORK FRONT-END | APIs UTILIZADAS            |
